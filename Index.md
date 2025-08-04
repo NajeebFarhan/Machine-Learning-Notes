@@ -1,0 +1,5 @@
+[[1. Machine Learning Introduction]]
+[[2. Why Machine learning]]
+[[3. Types of Machine Learning]]
+[[Supervised Learning]]
+[[Unsupervised Learning]]

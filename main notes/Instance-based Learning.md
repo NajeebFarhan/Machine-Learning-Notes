@@ -1,0 +1,1 @@
+The system learns the examples by heart, then generalizes to new cases by using a similarity measure to compare them to the learned examples(or a subset of them).

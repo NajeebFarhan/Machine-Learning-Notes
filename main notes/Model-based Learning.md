@@ -27,7 +27,7 @@ for linear regression, people tend to choose the later and measure the distance 
 
 
 **best option**
-**linear regression algorithm:** you feed your training datasets and find the best parameter to your data. This is called **training** the model.
+**linear regression algorithm:** A method that uses cost function. You feed your training datasets and find the best parameter to your data. This is called **training** the model.
 ![[Pasted image 20250806152058.png]]
 
 

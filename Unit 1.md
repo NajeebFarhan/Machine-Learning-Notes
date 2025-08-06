@@ -12,4 +12,6 @@
 [[Batch learning]]
 [[Online Learning]]
 
+[[Instance-based Learning]]
+[[Model-based Learning]]
 
